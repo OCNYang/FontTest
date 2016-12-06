@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffffff"
+    tools:context="com.yang.ocn.fonttest.MainActivity">
+
+    <TextView
+        android:id="@+id/common_methods_tv"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:textSize="18sp"
+        android:textColor="@color/colorAccent"
+        android:layout_height="wrap_content"
+        android:text="@string/common_methods"/>
+
+    <TextView
+        android:id="@+id/fonthelper_method_tv"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:textSize="18sp"
+        android:textColor="#ff995533"
+        android:layout_height="wrap_content"
+        android:text="@string/fonthelper_method"/>
+
+    <TextView
+        android:id="@+id/layoutinflate_method_tv"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:textSize="18sp"
+        android:textColor="#fff15553"
+        android:layout_height="wrap_content"
+        android:text="@string/layoutinflate_method"/>
+
+    <TextView
+        android:id="@+id/customview_method_tv"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:textSize="18sp"
+        android:textColor="#ff995ff3"
+        android:layout_height="wrap_content"
+        android:text="@string/customview_method"/>
+
+</LinearLayout>

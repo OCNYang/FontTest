@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffffff">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:textSize="18sp"
+        android:textColor="@color/colorAccent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="http://ocnyang.com"/>
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:textSize="58sp"
+        android:textColor="#ff995533"
+        android:layout_height="wrap_content"
+        android:text="&#xe60d;"/>
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:textSize="118sp"
+        android:textColor="#ff9ff533"
+        android:layout_height="wrap_content"
+        android:text="&#xe615;"/>
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:textSize="38sp"
+        android:textColor="#ff995ff3"
+        android:layout_height="wrap_content"
+        android:text="&#xe620;"/>
+
+    <TextView
+        android:id="@+id/text4"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:textSize="58sp"
+        android:textColor="#ff995533"
+        android:layout_height="wrap_content"
+        android:text="@string/fa_btc"/>
+
+    <TextView
+        android:id="@+id/text5"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:textSize="118sp"
+        android:textColor="#ff9ff533"
+        android:layout_height="wrap_content"
+        android:text="@string/fa_umbrella"/>
+
+    <TextView
+        android:id="@+id/text6"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:textSize="38sp"
+        android:textColor="#ff995ff3"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_height="wrap_content"
+        android:text="&#xf083;"/>
+
+</LinearLayout>

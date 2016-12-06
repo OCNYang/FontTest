@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">杨欧神/OCNYang™</string>
+    <string name="common_methods">方法一：手动动态方式（普通）</string>
+    <string name="fonthelper_method">方法二：FontHelper（全局）</string>
+    <string name="layoutinflate_method">方法三：LayoutInflate（全局）</string>
+    <string name="customview_method">方法四：自定义View（灵活）</string>
+</resources>
