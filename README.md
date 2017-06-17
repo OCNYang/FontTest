@@ -4,7 +4,7 @@
 
 效果图如下：  
 
-![图中的图标全都是 TextView ](http://obbu6r1mi.bkt.clouddn.com/ocnyang/iconfont/iconfont_.png?imageView2/1/w/540/h/960)   
+![图中的图标全都是 TextView ](http://obbu6r1mi.bkt.clouddn.com/ocnyang/iconfont/iconfont_.png?imageView2/1/w/500)   
 
 ## 仓库文件说明  
 
